@@ -6,3 +6,12 @@ This project was created to explore the use of APIs. I combined my interest in a
 
 (To do:
 Update it with questions people may have, extra info needed, steps I took, look at markdown format)
+
+
+Also took the opportunity to use Bootstrap...
+
+Template details:
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
