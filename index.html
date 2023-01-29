@@ -202,15 +202,20 @@
           </form>
 
           <!--testing-->
-          <form>
-            <div class="form-group">
+          <form onsubmit="return false">
+            <div class="form-group" style="display:none">
               <label for="name">Text to be translated</label>
-              <input type="text" name="to-translate" class="form-control" placeholder="Insert your text here"></br>
+              <input type="text" name="to-translate" class="form-control" placeholder="Insert your text here" rows="10"></br>
               <output ></output>
-              <div class="text-center"><button type="submit">Translate</button></div>
             </div>
-          </form>
 
+            <label for="">Input</label>
+            <textarea placeholder="Insert your text here" class="form-control" rows="10" required></textarea></br>
+            <div class="text-center"><button type="submit">Translate</button></div>
+          
+            <label for="">Ouput</label>
+            <textarea placeholder="Your translation here" class="form-control" rows="10" readonly></textarea></br>
+          </form>
         </div>
       </div>
       </div>
