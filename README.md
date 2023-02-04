@@ -13,3 +13,11 @@ I also took the opportunity to use Bootstrap. </br>
 
 (To do:
 Update it with questions people may have, extra info needed, steps I took, look at markdown format)
+
+------------------------------------------------------
+
+# **Aims**
+1. Basic HTML site using bootstrap
+2. HTML form with working "submit" button, where same input is displayed as the output (Python flask)?
+3. Working Google Translate API integrated and displaying the French translation of the input as the output
+4. Language options?
