@@ -11,8 +11,6 @@ I also took the opportunity to use Bootstrap. </br>
 (To do:
 Update it with questions people may have, extra info needed, steps I took, look at markdown format)
 
-------------------------------------------------------
-
 # **Aims**
 ***Bold has to be completed,*** otherwise is complete
 
